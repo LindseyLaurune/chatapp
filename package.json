@@ -1,0 +1,19 @@
+{
+  "name": "node-group-chat",
+  "version": "1.0.0",
+  "description": "a simple group chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Lindsey Laurune",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
